@@ -1,0 +1,10 @@
+
+.background {
+  filter: blur(1px);
+}
+
+.home img {
+  width: 175px;
+  height: 175px;
+  background-color: #FFF;
+}
