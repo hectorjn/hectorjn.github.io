@@ -9,7 +9,7 @@ section:
   hideTitle: false
 
 # your designation
-designation: Software Engineer
+designation: Ingeniero de Software
 # your company information
 company:
   name: Mercado Libre
@@ -19,7 +19,7 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a software engineer with 13 years of working experience and degreed as system engineer from the [Universidad Pedagógica y Tecnológica de Colombia](http://www.uptc.edu.co).  Currently, I work in shipping department of Mercado Libre as technical leader in training.'
+summary: 'Soy un ingeniero de software con 13 años de experience laboral, me recibí de ingeniero de sistemas en la [Universidad Pedagógica y Tecnológica de Colombia](http://www.uptc.edu.co). Actualmente trabajo en el área de envios de Mercado Libre como líder técnico en entrenamiento.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -38,27 +38,27 @@ socialLinks:
 
 - name: Whatsapp
   icon: "fab fa-whatsapp"
-  url: "https://wa.me/5491130303362?text=Hello,%20I%20found%20your%20profile%20on%20github"
+  url: "https://wa.me/5491130303362?text=Hola,%20enconté%20tu%20prefíl%20en%20github"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
+- name: Liderazgo
   percentage: 85
   color: sky
-- name: Team Work
+- name: Trabajo en equipo
   percentage: 90
   color: blue
-- name: Development
+- name: Desarrollo
   percentage: 95
   color: green
 - name: Problem Solving
   percentage: 85
   color: sky  
-- name: Fast Learner
+- name: Aprendo Rápido
   percentage: 90
   color: blue
-- name: Hard Working
+- name: Trabajo Duro
   percentage: 95
   color: green  

@@ -1,7 +1,7 @@
-baseURL: https://hectorjn.github.io
-
+baseURL: https://hectorjn.github.io/
 languageCode: en-us
-title: "Héctor's Resume"
+defaultContentLanguage: en
+title: " Héctor's Resume"
 theme: "toha"
 
 # Manage languages
@@ -45,7 +45,8 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo URL of your site
-  #gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/hectorjn/hectorjn.github.io
+  gitBranch: main
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
