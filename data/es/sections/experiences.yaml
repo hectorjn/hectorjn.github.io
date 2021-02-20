@@ -55,7 +55,7 @@ experiences:
     - Proponer, diseñar y colaborar en la construcción de soluciones para sus clientes. 
     - Colaborar con el área comercial estimando esfuerzo y tiempo requerido para implementar una solución.
     - Identificar oportunidades y proponer mejoras en el desarrollo de software.
-    - Liderar técnicamente el equipos y hacer mentorias y pair programming.
+    - Liderar técnicamente equipos, hacer mentorias y pair programming.
  
 - company:
     name: Capgemini
@@ -70,86 +70,86 @@ experiences:
     responsibilities:
     - Desarrollar e implementar para Monsanto un sistema de canje de granos para Latinoamérica.
     - Validar productos de software con los diferentes mediante demos.
-    - Scrum master and collaborate with task assignment and follow-up. 
-    - Unit testing, code reviews and pair programming. 
-    - Develop maven plugins used in deployment and selenium test runner.
+    - Trabajar como scrum master y colaborar con la asignación de tareas y seguimiento 
+    - Unit testing, code reviews y pair programming. 
+    - Desarrollar plugins de maven usados para develoy y correr test de selenium
 
 - company:
     name: Snoop Consulting
     url: "https://www.snoopconsulting.com"
     location: Buenos Aires - Argentina
     # company overview
-    overview: Snoop Consulting is an argentinian consultant company with more than 20 years developing software. They have a department dedicated exclusively to research and development. 
+    overview: Snoop Consulting es una consultora argentina con más de 20 años desarrollando software.
   positions:
   - designation: Senior Java Developer
     start: Jul 2012
-    end: Aug 2013
+    end: Ago 2013
     responsibilities: 
-    - Create Oracle stored procedures, views and reports.
-    - Work adapting sales processing applications and C# webservices
-    - Collaborate developing backends and frontends.
-    - Perform estimates and validations of software requirements. 
-    - Write technical documentation and deployment manuals. 
+    - Crear procedimientos almacenados, vistas y reportes en Oracle.
+    - Trabajar adaptando aplicaciones de procesamiento de ventas y webservices en C# 
+    - Colaborar desarrollando backends y frontends.
+    - Realizar estiamciones y validaciones de requerimientos de software.
+    - Escribir documentación técnica y manuales de despliegue.
 
 - company:
     name: Dridco S.A.
     url: "https://www.dridco.com"
     location: Buenos Aires - Argentina
     # company overview
-    overview: Dridco was an argentinian internet company with relevance in south america and owner of the web portals [DeMotores.com](https://demotores.com.ar), [ZonaJobs.com](https://www.zonajobs.com.ar), [ZonaProp.com](https://www.zonaprop.com.ar), Zonacitas.com and NexoLocal.com  
+    overview: Dridco era una empresa argentina de internet con presencia en Sur América y propietaria de los portales web [DeMotores.com](https://demotores.com.ar), [ZonaJobs.com](https://www.zonajobs.com.ar), [ZonaProp.com](https://www.zonaprop.com.ar), Zonacitas.com and NexoLocal.com 
   positions:
   - designation: Semi Senior Java Developer
     start: Jun 2011
     end: Jul 2012
     responsibilities: 
-    - Develop features in java for ZonaJobs.com.
-    - Collaborate adapting the zonajobs base code and release new sites.
-    - Write unit and integration test.
-    - Make maintance tasks and bug fixing.
+    - Desarrollar funcionalidades en java para ZonaJobs.com.
+    - Colaborar adaptando el código base de zonajobs para desplegar otros paises. 
+    - Escribir test unitarios y de integración.
+    - Hacer tareas de mantenimiento y bug fixing.
 
 - company:
     name: Softtek S.A.
     url: "https://www.softtek.co"
     location: Bogotá - Colombia
     # company overview
-    overview: Softtek is a global company and the largest provider of IT services from Latin America.  
+    overview: Softtek es una empresa global y uno de los mayores proveedores de servicios TI de Latinoamérica
   positions:
   - designation: Java Consultant
     start: Sep 2010
-    end: Apr 2011
+    end: Abr 2011
     responsibilities: 
-    - Develop web modules for SAP portals using java and javascript.
-    - Make integrations between web modules and SAP RFCs.
-    - Collaborate with release and deployment tasks.
-    - Make maintance tasks and bug fixing.    
+    - Desarrollar modulos web en SAP portals usados java y javascript.
+    - Hacer integraciones entre modulos web y RFCs de SAP.
+    - Colaborar con tareas de release y despliegue.
+    - Hacer tareas de mantenimiento y bug fixing.
 
 - company:
     name: Coris S.A.
     url: "http://www.aprilcolombia.com"
     location: Bogotá - Colombia
     # company overview
-    overview: Coris (now April) is an assistance card sales company that developed an outsourcing service in medical and technical auditing, processing  and settlement of medical expenses for traffic accident claims.  
+    overview: Coris(ahora April) es una empresa de venta de tarjetas de asistencia en viaje que desarrolló un servicio de outsourcing en auditoría médica y técnica, tramitación y liquidación de gastos médicos por siniestros de accidentes de tránsito.
   positions:
   - designation: Java Consultant
     start: Sep 2009
-    end: Apr 2010
+    end: Abr 2010
     responsibilities: 
-    - Make maintance tasks on legacy systems.
-    - Develop features using java web.
-    - Create Postgres stored procedures, views and reports.
-    - Write development documents and analyze software requirements.
+    - Hacer tareas de mantenimiento en sistemas legacy.
+    - Desarrollar funcionalidades usando java web.
+    - Crear procedimientos almacenados, vistas y reportes en PostgreSQL
+    - Escribir documentación técnica y analizar requerimientos de software.
 
 - company:
     name: Startech Ltda.
     location: Bogotá - Colombia
     # company overview
-    overview: Startech was a colombian company specialized in customs operations and cell phone logistics services for telecommunications companies.  
+    overview: Startech Ltda era una empresa colombiana especializada en operacionnes aduaneras y logística de celulares para empresas de telecomunicaciones.
   positions:
   - designation: Java Junior Developer
     start: Apr 2008
     end: Sep 2009
     responsibilities: 
-    - Develop features using java web.
-    - Write code for reports generation.
-    - Make maintance tasks and bug fixing.    
+    - Desarrollar funcionalidades usando java web.
+    - Escribir código para generar reportes.
+    - Hacer tareas de mantenimiento y bug fixing.   
   

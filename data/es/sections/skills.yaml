@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Skills and Tools
+  name: Skills
   id: skills
   enable: true
   weight: 2
@@ -13,43 +13,43 @@ section:
 skills:
 - name: Java Development
   logo: /images/sections/skills/java.svg
-  summary: "Using Java as the main language for professional development and I have had the opportunity to work with a different frameworks."
+  summary: "Utilizo Java como un lenguaje principal para el desarrollo profesional y he tenido la oportunidad de trabajar con diferentes frameworks."
   url: "https://www.java.com"
 
 - name: Go Development
   logo: /images/sections/skills/go.png
-  summary: "Using GO as the main language since 2 and half years ago and I have written microservices with code testable and scalable."
+  summary: "Utilizo GO como un lenguaje principal desde hace dos años y medio y he escrito microservicios con código testeable y escalable."
   url: "https://golang.org/"
 
 - name: Spring Framework
   logo: /images/sections/skills/spring.svg
-  summary: "Worked with a lot of tools provided for the framework for implementing different solution."
+  summary: "Trabajé con muchas tools proporcionadas por el framework en la implementación de diferentes soluciones."
   url: "https://spring.io/"
 
 - name: Hibernate
   logo: /images/sections/skills/hibernate.svg
-  summary: "I used hibernate framework in data access layer to access and persist information in the database."
-  url: "https://golang.org/" 
+  summary: "Utilicé hibernate en la capa de acceso a datos para acceder y persistir información en la base de datos."
+  url: "https://hibernate.org/" 
 
 - name: SQL
   logo: /images/sections/skills/sql.svg
-  summary: "Development in the relational databases including stored procedures and in tuning SQL statements, writing indexes."
+  summary: "Desarrollo en bases de datos relacionales incluyendo procedimientos almacenados, ajuste de sentencias SQL escribiendo índices."
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Build and deployment of microservices in Docker container and create multi-stage dockerfile for building Docker Images."
-  url: "https://www.docker.com//"  
+  summary: "Construir e implementar microservicios en contenedores y crear dockerfile multi-stage para construir imágenes de Docker."
+  url: "https://www.docker.com/"  
 
 - name: Datadog
   logo: /images/sections/skills/datadog.svg
-  summary: "Capable of setup monitoring, dashboards and alerting. I worked defining alert conditions for identifying problems in business and services performance. "
+  summary: "Capaz de configurar monitoreos, dashboards y las alertas. Trabajé identificando condiciones de alerta para detectar problemas operativos y servicios con bajo desempeño."
   url: "https://www.datadoghq.com/"
 
 - name: New Relic
   logo: /images/sections/skills/newrelic.svg
-  summary: "Using as tool for application performance management(APM). Capable of create dashboards and charts using NRQL and Insights."
+  summary: "Utilizando como herramienta para la medición del rendimiento de aplicaciones (APM). Capaz de crear dashboards y gráficos utilizando NRQL e Insights."
   url: "https://newrelic.com/"     
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "I have working in git-based development. use Github and have experience in working with Bitbucket."    
+  summary: "He trabajado en desarrollos basado en git. Use Github y tengo experiencia trabajando con Bitbucket."    

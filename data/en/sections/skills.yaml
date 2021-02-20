@@ -13,36 +13,36 @@ section:
 skills:
 - name: Java Development
   logo: /images/sections/skills/java.svg
-  summary: "Using Java as the main language for professional development and I have had the opportunity to work with a different frameworks."
+  summary: "Using Java as one of the main language for professional development and I have had the opportunity to work with a different frameworks."
   url: "https://www.java.com"
 
 - name: Go Development
   logo: /images/sections/skills/go.png
-  summary: "Using GO as the main language since 2 and half years ago and I have written microservices with code testable and scalable."
+  summary: "Using GO as one of the main language since two and half years ago and I have written microservices with code testable and scalable."
   url: "https://golang.org/"
 
 - name: Spring Framework
   logo: /images/sections/skills/spring.svg
-  summary: "Worked with a lot of tools provided for the framework for implementing different solution."
+  summary: "Worked with a lot of tools provided for the framework in implementing of different solutions."
   url: "https://spring.io/"
 
 - name: Hibernate
   logo: /images/sections/skills/hibernate.svg
   summary: "I used hibernate framework in data access layer to access and persist information in the database."
-  url: "https://golang.org/" 
+  url: "https://hibernate.org/" 
 
 - name: SQL
   logo: /images/sections/skills/sql.svg
-  summary: "Development in the relational databases including stored procedures and in tuning SQL statements, writing indexes."
+  summary: "Development on relational databases including stored procedures and in tuning SQL statements writing indexes."
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Build and deployment of microservices in Docker container and create multi-stage dockerfile for building Docker Images."
-  url: "https://www.docker.com//"  
+  summary: "Building and deployment of microservices in containers and create multi-stage dockerfile for building Docker Images."
+  url: "https://www.docker.com/"  
 
 - name: Datadog
   logo: /images/sections/skills/datadog.svg
-  summary: "Capable of setup monitoring, dashboards and alerting. I worked defining alert conditions for identifying problems in business and services performance. "
+  summary: "Capable of setup monitoring, dashboards and alerting. I worked identifying alert conditions for detecting operatives problems and services with low performance."
   url: "https://www.datadoghq.com/"
 
 - name: New Relic

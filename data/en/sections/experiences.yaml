@@ -55,7 +55,7 @@ experiences:
     - Propose, design, colaborate in building of solutions for its clients. 
     - Collaborate with business department estimating effort and time requiered to implement a solution. 
     - Identify opportunities and propose improvements in software process.
-    - Lead technically teams and make mentories and pair programming.
+    - Lead technically teams, make mentories and pair programming.
  
 - company:
     name: Capgemini
@@ -70,16 +70,16 @@ experiences:
     responsibilities:
     - Develop and implement of Monsanto's grain barter system for Latin America. 
     - Validate software products with the different stakeholders through demos.
-    - Scrum master and collaborate with task assignment and follow-up. 
+    - Work as scrum master and collaborate with task assignment and follow-up. 
     - Unit testing, code reviews and pair programming. 
-    - Develop maven plugins used in deployment and selenium test runner.
+    - Develop maven plugins used for deployment and selenium test runner.
 
 - company:
     name: Snoop Consulting
     url: "https://www.snoopconsulting.com"
     location: Buenos Aires - Argentina
     # company overview
-    overview: Snoop Consulting is an argentinian consultant company with more than 20 years developing software. They have a department dedicated exclusively to research and development. 
+    overview: Snoop Consulting is an argentinian consultant company with more than 20 years developing software. 
   positions:
   - designation: Senior Java Developer
     start: Jul 2012
@@ -96,14 +96,14 @@ experiences:
     url: "https://www.dridco.com"
     location: Buenos Aires - Argentina
     # company overview
-    overview: Dridco was an argentinian internet company with relevance in south america and owner of the web portals [DeMotores.com](https://demotores.com.ar), [ZonaJobs.com](https://www.zonajobs.com.ar), [ZonaProp.com](https://www.zonaprop.com.ar), Zonacitas.com and NexoLocal.com  
+    overview: Dridco was an argentinian internet company with presence in South America and owner of the web portals [DeMotores.com](https://demotores.com.ar), [ZonaJobs.com](https://www.zonajobs.com.ar), [ZonaProp.com](https://www.zonaprop.com.ar), Zonacitas.com and NexoLocal.com  
   positions:
   - designation: Semi Senior Java Developer
     start: Jun 2011
     end: Jul 2012
     responsibilities: 
     - Develop features in java for ZonaJobs.com.
-    - Collaborate adapting the zonajobs base code and release new sites.
+    - Collaborate by adapting the zonajobs base code for deployments in other countries.
     - Write unit and integration test.
     - Make maintance tasks and bug fixing.
 
@@ -112,13 +112,13 @@ experiences:
     url: "https://www.softtek.co"
     location: Bogotá - Colombia
     # company overview
-    overview: Softtek is a global company and the largest provider of IT services from Latin America.  
+    overview: Softtek is a global company and one of the largest provider of IT services from Latin America.  
   positions:
   - designation: Java Consultant
     start: Sep 2010
     end: Apr 2011
     responsibilities: 
-    - Develop web modules for SAP portals using java and javascript.
+    - Develop web modules on SAP portals using java and javascript.
     - Make integrations between web modules and SAP RFCs.
     - Collaborate with release and deployment tasks.
     - Make maintance tasks and bug fixing.    
@@ -128,7 +128,7 @@ experiences:
     url: "http://www.aprilcolombia.com"
     location: Bogotá - Colombia
     # company overview
-    overview: Coris (now April) is an assistance card sales company that developed an outsourcing service in medical and technical auditing, processing  and settlement of medical expenses for traffic accident claims.  
+    overview: Coris (now April) is a travel assistance card sales company that developed an outsourcing service in medical and technical auditing, processing and settlement of medical expenses for traffic accident claims.  
   positions:
   - designation: Java Consultant
     start: Sep 2009
@@ -136,7 +136,7 @@ experiences:
     responsibilities: 
     - Make maintance tasks on legacy systems.
     - Develop features using java web.
-    - Create Postgres stored procedures, views and reports.
+    - Create PostgreSQL stored procedures, views and reports.
     - Write development documents and analyze software requirements.
 
 - company:

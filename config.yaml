@@ -17,7 +17,7 @@ languages:
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
 # Enable Google Analytics
-googleAnalytics: UA-190251516-1
+#googleAnalytics: UA-190251516-1
 
 # Allow raw html in markdown file
 markup:
