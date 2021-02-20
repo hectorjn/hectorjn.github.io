@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Experiencias
   id: experiences
   enable: true
   weight: 3
@@ -15,64 +15,64 @@ experiences:
     url: "https://www.mercadolibre.com"
     location: Buenos Aires - Argentina
     # company overview
-    overview: Mercado Libre, Inc. is the largest online commerce and payments ecosystem in Latin America with 267,8 millions of users. Through Mercado Envíos, MercadoLibre facilitates the shipping of goods from sellers to buyers.
+    overview: Mercado Libre, Inc. es el ecosistema de comercio electrónico y pagos más grande en Latinoamérica con 267.8 millones de usuarios. A través de Mercado Envíos, MercadoLibre posibilita el envío de vienes desde el vendedor al comprador.
   positions:
-  - designation: Technical Leader in Training
+  - designation: Líder Técnico en Entrenamiento
     start: Nov 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Implement monitoring, performance metrics, define alert conditions and propose software quality attributes. 
-    - Detect potential risks of availability, latency and scalability in microservices.
-    - Research to identifing improvements and opportunities in software development.
-    - Coordinate war-roms, measuring the impact and help in troubleshooting.
-    - Work with different teams across Mercado Libre and technology providers.
-    - Colaborate in workshops and meetings to define MVPs, features, business rules and follow-up.
-    - Lead technically backend team in charge of Mercado Envíos mobile applications.
+    - Implementar monitoreos, definir métricas de rendimiento, establecer condiciones de alerta y proponer antributos de calidad de software. 
+    - Detectar riesgos potenciales de disponibilidad, latencia y escalabilidad en microservicios.
+    - Investigar para identificar mejoras y oportunidades en el desarrollo de software.  
+    - Coordinar war-roms, medir el impacto y colaborar con la solución de incidentes.
+    - Trabajar en conjunto con diferentes equipos de Mercado Libre y proveedores de tecnología. 
+    - Participar en talleres y reuniones para definir MVPs, funcionalidades, reglas de negocio y para hacer seguimiento. 
+    - Liderar técnicamente el equipo de backend a cargo del las aplicaciones mobile de Mercado Envíos.
   - designation: Senior Software Engineer
-    start: Apr 2018
+    start: Abr 2018
     end: Oct 2019
     responsibilities:
-    - Design, build and release microservices in GO for Mercado Libre's shipping logistics network.
-    - Develop and release backend services in Java for [Mercado Libre FLEX](https://envios.mercadolibre.com.ar/mercado-envios-flex).
-    - Design, build and release backend microservices in Java for same day deliveries.
-    - Unit testing, code reviews and pair programming.
+    - Diseñar, construir y poner en producción microservicios en GO para la red logística de Mercado Libre.
+    - Construir y poner en producción servicios en Java para [Mercado Libre FLEX](https://envios.mercadolibre.com.ar/mercado-envios-flex).
+    - Diseñar, construir y poner en producción microservicios en Java para entregas en el mismo día. 
+    - Unit testing, code reviews y pair programming.
 
 - company:
     name: Mobile Computing
     url: "https://www.mobilecomputing.com.ar"
     location: Buenos Aires - Argentina
     # company overview
-    overview: Mobile Computing is a consultant company that provides technology services. They are innovating constantly because them clients has different economic activities. Mobile computing builds custom solutions and provides support and software maintance. 
+    overview: Mobile Computing es una empresa de consultoría que ofrece servicios en tecnología. Ellos constantemente están inovando porque sus clientes tiene diferentes actividades económicas. Mobile Computing construye solución a medida y provee soporte y mantenimiento de software.
   positions:
   - designation: Technical Leader - Java Senior Developer
     start: Sep 2015
-    end: Apr 2018
+    end: Abr 2018
     responsibilities:
-    - Implement CI/CD process and define quality checks for java applications. 
-    - Research technologies and make proofs of concept on them.
-    - Propose, design, colaborate in building of solutions for clients. 
-    - Collaborate with business department estimating effort and time requiered to implement a solution. 
-    - Identify opportunities and propose improvements in software process.
-    - Lead technically teams making mentories and pair programming.
+    - Implementación de CI/CD y definir items de calidad para desarrollos java. 
+    - Investigar tecnologías, herramientas y hacer pruebas de concepto.
+    - Proponer, diseñar y colaborar en la construcción de soluciones para sus clientes. 
+    - Colaborar con el área comercial estimando esfuerzo y tiempo requerido para implementar una solución.
+    - Identificar oportunidades y proponer mejoras en el desarrollo de software.
+    - Liderar técnicamente el equipos y hacer mentorias y pair programming.
  
 - company:
     name: Capgemini
     url: "https://www.capgemini.com/ar-es/"
     location: Buenos Aires - Argentina
     # company overview
-    overview: Capgemini is a multinational company specialized in consulting, talent acquisition and outsourcing.
+    overview: Capgemini es una compañia multinacional que se especializa en consultoría, adquisición de talentos y subcontratación.  
   positions:
   - designation: Senior Consultant 1
     start: Oct 2013
-    end: Aug 2015
+    end: Ago 2015
     responsibilities:
-    - Develop and implement of Monsanto's grain barter system for Latin America. 
-    - Validate software products with the different stakeholders thow demos.
-    - Scrum master in chages of assigning tasks and follow-up. 
+    - Desarrollar e implementar para Monsanto un sistema de canje de granos para Latinoamérica.
+    - Validar productos de software con los diferentes mediante demos.
+    - Scrum master and collaborate with task assignment and follow-up. 
     - Unit testing, code reviews and pair programming. 
-    - Develop maven plugins used as deployment tool and selenium testing runer.
+    - Develop maven plugins used in deployment and selenium test runner.
 
 - company:
     name: Snoop Consulting

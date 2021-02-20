@@ -23,12 +23,12 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Implement monitoring, performance metrics, define alert conditions and propose software quality attributes. 
+    - Implement monitoring, define performance metrics, set up alert conditions and propose software quality attributes. 
     - Detect potential risks of availability, latency and scalability in microservices.
     - Research to identifing improvements and opportunities in software development.
     - Coordinate war-roms, measuring the impact and help in troubleshooting.
     - Work with different teams across Mercado Libre and technology providers.
-    - Colaborate in workshops and meetings to define MVPs, features, business rules and follow-up.
+    - Participate in workshops and meetings to define MVPs, features, business rules and follow-up.
     - Lead technically backend team in charge of Mercado Envíos mobile applications.
   - designation: Senior Software Engineer
     start: Apr 2018
@@ -50,12 +50,12 @@ experiences:
     start: Sep 2015
     end: Apr 2018
     responsibilities:
-    - Implement CI/CD process and define quality checks for java applications. 
-    - Research technologies and make proofs of concept on them.
-    - Propose, design, colaborate in building of solutions for clients. 
+    - Implement CI/CD process and define quality checks for java developments. 
+    - Research in technologies, tools and make proofs of concept.
+    - Propose, design, colaborate in building of solutions for its clients. 
     - Collaborate with business department estimating effort and time requiered to implement a solution. 
     - Identify opportunities and propose improvements in software process.
-    - Lead technically teams making mentories and pair programming.
+    - Lead technically teams and make mentories and pair programming.
  
 - company:
     name: Capgemini
@@ -69,10 +69,10 @@ experiences:
     end: Aug 2015
     responsibilities:
     - Develop and implement of Monsanto's grain barter system for Latin America. 
-    - Validate software products with the different stakeholders thow demos.
-    - Scrum master in chages of assigning tasks and follow-up. 
+    - Validate software products with the different stakeholders through demos.
+    - Scrum master and collaborate with task assignment and follow-up. 
     - Unit testing, code reviews and pair programming. 
-    - Develop maven plugins used as deployment tool and selenium testing runer.
+    - Develop maven plugins used in deployment and selenium test runner.
 
 - company:
     name: Snoop Consulting

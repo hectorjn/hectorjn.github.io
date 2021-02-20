@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Education
+  name: Educación
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
@@ -10,9 +10,9 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Graduate (Student) - Master's Degree In Software Engineering 
+- name: Estudiante - Master en Ingeniería de Software
   icon: fa-laptop-code
-  timeframe: Currently
+  timeframe: Actualmente
   institution:
     name: Universidad Nacional De La Plata
     url: "https://postgrado.info.unlp.edu.ar/ingenieria-de-software/"
@@ -20,21 +20,21 @@ degrees:
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
     courses:
-    - name: Project Management
-    - name: Techniques and Tools
-    - name: Software Engineering Topics I
-    - name: Database design
-    - name: Software Engineering Topics II
-    - name: Thesis Writing Workshop
+    - name: Gestión de proyectos
+    - name: Técnicas y herramientas
+    - name: Topicos de ingeniería de software I
+    - name: Diseño de bases de datos
+    - name: Topicos de ingeniería de software II
+    - name: Taller de escritura de tesis
 
-- name: Computer And Systems Engineer
+- name: Ingeniero de Sistemas y Computación
   icon: fa-university
   timeframe: 2002-2009
   institution:
     name: Universidad Pedagógica y Tecnológica de Colombia
     url: "http://www.uptc.edu.co/facultades/f_ingenieria/pregrado/sistemas/inf_general/"  
 
-- name: High School Degree With Emphasis In Computer Science
+- name: Bachiller técnico con énfasis en computación
   icon: fa-school
   timeframe: 1996-2001
   institution:

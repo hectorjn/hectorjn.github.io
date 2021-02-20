@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About Me
+  name: Sobre Mi
   id: about
   enable: true
   weight: 1
@@ -38,7 +38,7 @@ socialLinks:
 
 - name: Whatsapp
   icon: "fab fa-whatsapp"
-  url: "https://wa.me/5491130303362?text=Hola,%20enconté%20tu%20prefíl%20en%20github"
+  url: "https://wa.me/5491130303362?text=Hola,%20encontré%20tu%20prefíl%20en%20github"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.

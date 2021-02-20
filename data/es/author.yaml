@@ -2,9 +2,8 @@
 name: "Héctor Eduardo Jiménez Neira"
 nickname: "Héctor"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hola!! soy "
+greeting: "Hola! soy "
 image: "images/author/profile.png"
-#image: "images/author/profile.jpeg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "hectore.jimenez@gmail.com"
